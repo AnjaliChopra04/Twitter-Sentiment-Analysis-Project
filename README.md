@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-Project
+# Twitter Sentiment Analysis Project
 This project predicts the sentiments of tweets posted on Twitter by different users using the concepts of Natural Language Processing
 
 ### Description
